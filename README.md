@@ -1,3 +1,3 @@
 # Electronic-City
-### This project has been developed in three phases using Java, and its documents are available. 
+### This project has been developed in three phases using Java
 ## Hope you enjoy it!
